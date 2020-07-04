@@ -1,6 +1,6 @@
 # Ugly Number II
 
-[Question_URL](https://leetcode.com/problems/ugly-number-ii/)
+[Question](https://leetcode.com/problems/ugly-number-ii/)
 
 Write a program to find the n-th ugly number.  
 Ugly numbers are positive numbers whose prime factors only include 2, 3, 5.
